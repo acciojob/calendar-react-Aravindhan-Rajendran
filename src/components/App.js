@@ -1,5 +1,5 @@
 import React from "react";
-import Calendar from "./Calendar"; // Import the Calendar component
+import Calendar from "./Calendar";
 import '../styles/App.css'; // Import your styles
 
 const App = () => {
